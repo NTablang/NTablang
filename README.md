@@ -7,7 +7,7 @@
 <br/>
 
 ### 👷‍ Self Taught Developer
-I am a first gen builder from the Philippines and I've pretty much taught myself web and mobile development. I'm at the intersection of UI/UX, SWE (Front-end is my forte), Product Management, Community Building, and Machine Learning. I've cofounded this tech startup and boy was that interesting since it was my first mobile dev project (made it with React Native). Even though we failed I could say I know a thing or two about ideating, researching, designing, developing, executing, then marketing a product. Hit me up at nathantablang@yahoo.com if you need help with finding potential co-founders with a venture; if you need a software or ui/ux consult, or would like to collaborate with me!
+I am a first gen builder from the Philippines and I've pretty much taught myself web and mobile development. I'm at the intersection of UI/UX, SWE (Front-end is my forte), Product Management, Community Building, and Machine Learning. I've cofounded this tech startup and boy was that interesting since it was my first mobile dev project (made it with React Native). Even though we failed I could say I know a thing or two about ideating, researching, designing, developing, executing, then marketing a product. Hit me up at nathantablang@yahoo.com if you need help with finding potential co-founders with a venture; if you need a software or ui/ux consult; if you need another pair of eyes for idea validation (from what I can humbly provide); or would like to collaborate with me!
 <br/>
 
 
