@@ -5,6 +5,6 @@
 </p>
 <br/><br/>
 
-#### 👷‍ Self Taught Developer
+### 👷‍ Self Taught Developer
 
 
