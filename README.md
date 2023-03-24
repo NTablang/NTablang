@@ -1,8 +1,6 @@
 # 🚵‍♂️   Nathan Tablang
 
-#### **` Self Taught Developer 👷‍♂️ `**
-
-
-<p align="left">hello</p>
-<p align="right"><img style="width: auto; height: 300px; margin-right: 1000px;" align=top src="https://firebasestorage.googleapis.com/v0/b/soheil-lab.appspot.com/o/images%2FIMG_3947-removebg-preview.png?alt=media&token=ec2256a6-df01-4adc-b45d-00203ddf5c81" alt="figure of me"/></p>
+<p align="center">
+  <img align=top src="https://firebasestorage.googleapis.com/v0/b/soheil-lab.appspot.com/o/images%2FScreen_Shot_2023-03-24_at_7.01.52_PM-removebg-preview.png?alt=media&token=33cbd64c-90c5-48dc-9f1e-74d57f50b0ae" alt="figure of me"/>
+</p>
 
