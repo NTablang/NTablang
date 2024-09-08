@@ -1,5 +1,5 @@
 
-![Donate Button](data:image/svg+xml;base64,CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTQwIiBoZWlnaHQ9IjQwIj4KICA8YSBocmVmPSJodHRwczovL2V4YW1wbGUuY29tL2RvbmF0ZSIgdGFyZ2V0PSJfYmxhbmsiPgogICAgPHJlY3Qgd2lkdGg9IjE0MCIgaGVpZ2h0PSI0MCIgZmlsbD0iI2ZiMzczNyIgcng9IjQiIHJ5PSI0IiAvPgogICAgPHRleHQgeD0iNTAlIiB5PSI1MCUiIGZpbGw9IiNmZmZmZmYiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZHk9Ii4zZW0iIGZvbnQtd2VpZ2h0PSJib2xkIj5ET05BVEUgSEVSRSE8L3RleHQ+CiAgPC9hPgo8L3N2Zz4=)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 
 
 
