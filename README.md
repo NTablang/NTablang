@@ -1,5 +1,5 @@
 
-<a href="[https://www.google.com](https://www.google.com)" target="_blank" rel="noreferrer"> <img 
+<a href="https://www.google.com" target="_blank" rel="noreferrer"> <img 
                                                                                                               style="pointer-events: none;"
                                                                                             src="https://github.com/user-attachments/assets/3a3d4b52-53b1-4fe3-8096-dc5c64a11990" alt="c" width="100" height="40"/> </a>
 
