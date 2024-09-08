@@ -1,10 +1,9 @@
-<a href="www.google.com">
-![button](https://github.com/user-attachments/assets/3a3d4b52-53b1-4fe3-8096-dc5c64a11990)
-</a>
 
-<p align="center">
-  <img align=top style="width: auto; height: 250px;" src="https://firebasestorage.googleapis.com/v0/b/soheil-lab.appspot.com/o/images%2FScreen_Shot_2023-03-24_at_7.01.52_PM-removebg-preview.png?alt=media&token=33cbd64c-90c5-48dc-9f1e-74d57f50b0ae" alt="figure of me"/>
-</p>
+<a href="https://www.google.com" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/3a3d4b52-53b1-4fe3-8096-dc5c64a11990" alt="c" width="40" height="40"/> </a>
+
+
+
+
 <br/><br/>
 <p align="center">Check In! https://nathantablang.com/personal </p>
 <br/>
