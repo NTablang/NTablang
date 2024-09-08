@@ -1,5 +1,8 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="40">
+  <rect width="140" height="40" fill="#fb3737" rx="4" ry="4" />
+  <text x="50%" y="50%" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" dy=".3em" font-weight="bold">DONATE HERE!</text>
+</svg>
 
 
 
