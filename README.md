@@ -1,11 +1,3 @@
-
-<a href="http://localhost:3000/ntablang/donate" target="_blank" rel="noreferrer"> <img 
-                                                                                                              style="pointer-events: none;"
-                                                                                            src="https://github.com/user-attachments/assets/3a3d4b52-53b1-4fe3-8096-dc5c64a11990" alt="c" width="100" height="40"/> </a>
-
-
-
-
 <br/><br/>
 <p align="center">Check In! https://nathantablang.com/personal </p>
 <br/>
